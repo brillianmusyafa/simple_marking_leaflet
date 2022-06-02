@@ -1,0 +1,94 @@
+﻿{
+    "data": [
+        {
+            "no": "1",
+            "kecamatan": "Kecamatan Way Tuba",
+            "lat": "-4.428257054393850",
+            "lng": "104.37674224376600",
+            "text": "www.agrojaya.id"
+        },
+        {
+            "no": "2",
+            "kecamatan": "Kecamatan Bumi Agung",
+            "lat": "-4.333921279504120",
+            "lng": "104.50593888759600"
+        },
+        {
+            "no": "3",
+            "kecamatan": "Kecamatan Blambangan Umpu",
+            "lat": "-4.509408592234710",
+            "lng": "104.51042890548700"
+        },
+        {
+            "no": "4",
+            "kecamatan": "Kecamatan Buay Bahuga",
+            "lat": "-4.276475349036040",
+            "lng": "104.55898761749200"
+        },
+        {
+            "no": "5",
+            "kecamatan": "Kecamatan Bahuga",
+            "lat": "-4.275180773152880",
+            "lng": "104.6647095680230",
+            "text": "www.agrojaya.id"
+        },
+        {
+            "no": "6",
+            "kecamatan": "Kecamatan Reb. Tangkas",
+            "lat": "-4.694344827007690",
+            "lng": "104.32139217853500",
+            "text": "www.agrojaya.id"
+        },
+        {
+            "no": "7",
+            "kecamatan": "Kecamatan Kasui",
+            "lat": "-4.817344388635660",
+            "lng": "104.37986433506000",
+            "text": "www.agrojaya.id"
+        },
+        {
+            "no": "8",
+            "kecamatan": "Kecamatan Banjit",
+            "lat": "-4.915779354452550",
+            "lng": "104.46428418159400",
+            "text": "www.agrojaya.id"
+        },
+        {
+            "no": "9",
+            "kecamatan": "Kecamatan Baradatu",
+            "lat": "-4.779732637192180",
+            "lng": "104.52461242675700",
+            "text": "www.agrojaya.id"
+        },
+        {
+            "no": "10",
+            "kecamatan": "Kecamatan Gn. Labuhan",
+            "lat": "-4.822112529482550",
+            "lng": "104.59080398082700"
+        },
+        {
+            "no": "11",
+            "kecamatan": "Kecamatan Negeri Agung",
+            "lat": "-4.5614255598665000",
+            "lng": "104.65714037418300"
+        },
+        {
+            "no": "12",
+            "kecamatan": "Kecamatan Pakuon Ratu",
+            "lat": "-4.508821001139000",
+            "lng": "104.82495546340900"
+        },
+        {
+            "no": "13",
+            "kecamatan": "Kecamatan Negeri Besar",
+            "lat": "-4.429059314580020",
+            "lng": "104.97554540634100"
+        },
+        {
+            "no": "14",
+            "kecamatan": "Kecamatan Negara Batin",
+            "lat": "-4.347491770608760",
+            "lng": "104.90101754665300"
+        }
+    ]
+}
