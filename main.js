@@ -5,7 +5,7 @@ var tiles = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 
-$.get('data.json', function (data) {
+$.get('data_kec.json', function (data) {
     var mark = data['data'];
     mark.forEach(function (dt) {
         if (dt.hasOwnProperty('text')) {
